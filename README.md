@@ -11,6 +11,7 @@ A lightweight Nautilus (GNOME Files) extension that adds a **"Scan with Disk Usa
 - Launches GNOME Disk Usage Analyzer (`baobab`) directly on the selected directory.
 - Written in clean, dependency-light Python using `python3-nautilus` and GTK 4 / Nautilus 4.1 bindings.
 
+![Nautilus right-click context menu showing Scan with Disk Usage Analyzer](assets/context-menu.png)
 ## Requirements
 
 - **GNOME Files (Nautilus)** `43+` (GTK 4 / Nautilus `4.1` API)
